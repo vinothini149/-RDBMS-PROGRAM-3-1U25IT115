@@ -1,5 +1,5 @@
-CREATE DATABASE collegeDB;
-USE collegeDB;
+CREATE DATABASE StudentDB;
+USE StudentDB;
 CREATE TABLE department(
   studentID VARCHAR(5)PRIMARY KEY,
   studentName VARCHAR(10)NOT NULL,
